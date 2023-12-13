@@ -36,7 +36,7 @@ const PaginaPokemon = () => {
                 <nav>
                     <ul>
                         <li>
-                            <Link href="/inicio">Início</Link>
+                            <Link href=".././">Início</Link>
                         </li>
                         <li>
                             <Link href="/info2">Informações 2</Link>

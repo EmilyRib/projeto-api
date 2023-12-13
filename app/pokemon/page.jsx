@@ -14,16 +14,16 @@ function Pokemon() {
                 <nav>
                     <ul>
                         <li>
-                            <Link href="/info1">Informações 1</Link>
+                            <Link href=".././">Início</Link>
+                        </li>
+                        <li>
+                            <Link href=".././">Informações 1</Link>
                         </li>
                         <li>
                             <Link href="/info2">Informações 2</Link>
                         </li>
                         <li>
                             <Link href="/equipe">Equipe</Link>
-                        </li>
-                        <li>
-                            <Link href="/pokemon">Pokemon</Link>
                         </li>
                     </ul>
                 </nav>
