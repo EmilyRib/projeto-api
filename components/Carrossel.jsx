@@ -1,6 +1,5 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import ;
 
 export default class Carrossel extends React.Component {
     render() {
